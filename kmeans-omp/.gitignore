@@ -1,0 +1,13 @@
+# Compiled executables
+*.exe
+
+# Generated datasets
+data/
+
+# Temporary files
+*.o
+*.obj
+*.tmp
+
+# IDE settings
+.vscode/
